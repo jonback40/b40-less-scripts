@@ -12,4 +12,7 @@ See [this gist](https://gist.github.com/mattmilburn/148f2cdb7dbcaa4616ea8ebdb666
 * [NOSN](http://www.nosn.info/) - United States map on home page
 
 #### search-collapse
-* [Visit Shawnee](http://www.visitshawnee.com/) - Located in header
+* [ACEA](https://www.eabookstore.com/) - Located in global page nav
+
+#### scrollto
+* [OSCO](http://www.okclinicaltrials.org/) - Located in hero section on homepage
