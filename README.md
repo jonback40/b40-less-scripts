@@ -10,3 +10,6 @@ See [this gist](https://gist.github.com/mattmilburn/148f2cdb7dbcaa4616ea8ebdb666
 
 #### svg-replace
 * [NOSN](http://www.nosn.info/) - United States map on home page
+
+#### search-collapse
+* [Visit Shawnee](http://www.visitshawnee.com/) - Located in header
