@@ -1,0 +1,24 @@
+{
+  "name": "b40-less-scripts",
+  "version": "1.0.0",
+  "description": "Javascript modules used within the JavelinCMS LESS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/mattmilburn/b40-less-scripts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmilburn/b40-less-scripts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattmilburn/b40-less-scripts/issues"
+  },
+  "keywords": [
+    "css",
+    "css-framework",
+    "javascript"
+  ],
+  "author": "Matt Milburn",
+  "license": "UNLICENSED"
+}
